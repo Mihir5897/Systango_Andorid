@@ -15,6 +15,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SystangoAndorid">
         <activity
+            android:name=".update"
+            android:exported="true" />
+        <activity
             android:name=".Git"
             android:exported="true" />
         <activity
